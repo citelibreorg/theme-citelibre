@@ -13,10 +13,10 @@
     <version>2.0.0-SNAPSHOT</version>
     <description>V8 Theme CiteLibre</description>
     <scm>
-        <connection>scm:git:https://github.com/citelibre/theme-citelibre.git</connection>
-        <developerConnection>scm:git:https://github.com/citelibre/theme-citelibre.git</developerConnection>
+        <connection>scm:git:https://github.com/citelibreorg/theme-citelibre.git</connection>
+        <developerConnection>scm:git:https://github.com/citelibreorg/theme-citelibre.git</developerConnection>
         <tag>HEAD</tag>
-        <url>https://github.com/citelibre/theme-citelibre.git</url>
+        <url>https://github.com/citelibreorg/theme-citelibre.git</url>
     </scm>
     <repositories>
         <repository>
